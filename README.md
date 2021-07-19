@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School CV
+https://taneros.github.io/rsschool-cv/cv
