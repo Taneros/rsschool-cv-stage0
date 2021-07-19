@@ -4,7 +4,7 @@
 | Location: | Kazan, Russia |
 | Mobile: | +7 996 901 15 53 |
 | Email: | renat.fatkhullin@hotmail.com |
-|Github| https://github.com/Taneros/|
+|Github| https://github.com/Taneros|
 
 ## Profile Summary
 Multilingual engineer & educator with international work experience who is looking to shift his career to work in IT sector. At the moment, I am working towards completing RS School course «JavaScript/Front-end» and get employed at EPAM.
@@ -12,7 +12,7 @@ Multilingual engineer & educator with international work experience who is looki
 ## Qualifications Summary
 | Diplomas | Certificates |
 | ------------ | ------------ |
-|Master’s Degree in Mechanical Engineering| TESOL - English Teacher Certificate |
+|Masters Degree in Mechanical Engineering| TESOL - English Teacher Certificate |
 |English Translator|Chinese - HSK 4 Certificate|
 
 ## IT Experience
@@ -42,27 +42,27 @@ Basic Algorithms |
 
 ### International School Teacher
 
-- ***Kang Chiao International School, China, Kunshan***
+- ***Kang Chiao International School, China, Kunshan*** ||
 Position: Design Teacher
 
-- ***International School Of Ningbo, China, Ningbo***
+- ***International School Of Ningbo, China, Ningbo*** ||
 Position: High School Mathematics Teacher
 
 ### Mechanical Engineer
-- ***AERO TITANIUM AS, Norway - Russia Joint Venture***
-Position: Engineer | Metallurgy, Titanium castings for oil & gas, chemical industry.
+- ***AERO TITANIUM AS, Norway - Russia Joint Venture*** ||
+Position: Engineer
 
-- ***ZF KAMA GmbH., Germany - Russia Joint Venture***
+- ***ZF KAMA GmbH., Germany - Russia Joint Venture*** ||
 Position: Quality Assurance Engineer
 
 - ***JSC KMPO, Russia***
 Position: Design-Engineer
 
 ## Higher Education
-- ***Kazan National Research Technical University***
+- ***Kazan National Research Technical University*** ||
 Masters Degree - Mechanical Engineering
 
-- ***University of Ningbo***
+- ***University of Ningbo*** ||
 Masters Degree - Business Administration
 
 ## Spoken Languages
