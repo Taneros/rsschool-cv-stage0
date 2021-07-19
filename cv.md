@@ -1,4 +1,5 @@
 # RENAT FATKHULLIN
+
 | Availability: | Jun 2022 |
 | ------------ | ------------ |
 | Location: | Kazan, Russia |
@@ -10,7 +11,8 @@
 Multilingual engineer & educator with international work experience who is looking to shift his career to work in IT sector. At the moment, I am working towards completing RS School course «JavaScript/Front-end» and get employed at EPAM.
 
 ## Qualifications Summary
-| Diplomas | Certificates |
+
+|Diplomas | Certificates |
 | ------------ | ------------ |
 |Masters Degree in Mechanical Engineering| TESOL - English Teacher Certificate |
 |English Translator|Chinese - HSK 4 Certificate|
