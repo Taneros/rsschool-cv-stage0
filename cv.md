@@ -37,3 +37,39 @@ Basic Algorithms |
 ## Examples of Code
 
 - codewars https://www.codewars.com/users/Taneros
+
+## Previous Work Experience
+
+### International School Teacher
+
+- ***Kang Chiao International School, China, Kunshan***
+Position: Design Teacher
+
+- ***International School Of Ningbo, China, Ningbo***
+Position: High School Mathematics Teacher
+
+### Mechanical Engineer
+- ***AERO TITANIUM AS, Norway - Russia Joint Venture***
+Position: Engineer | Metallurgy, Titanium castings for oil & gas, chemical industry.
+
+- ***ZF KAMA GmbH., Germany - Russia Joint Venture***
+Position: Quality Assurance Engineer
+
+- ***JSC KMPO, Russia***
+Position: Design-Engineer
+
+## Higher Education
+- ***Kazan National Research Technical University***
+Masters Degree - Mechanical Engineering
+
+- ***University of Ningbo***
+Masters Degree - Business Administration
+
+## Spoken Languages
+- English - C1
+- Chinese - HSK 4
+- Russian - native speaker
+
+## Soft Skills
+
+I am a quick learner. Given enough time and internet access I can find the solution to a problem and educate myself on a given topic. I am comfortable working in large teams and not afraid to work independently either.
