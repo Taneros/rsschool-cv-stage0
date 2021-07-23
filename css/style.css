@@ -85,6 +85,12 @@ body {
 
 .left__contacts i {
     margin-right: 0.5em;
+    width: 16px;
+}
+
+.right__section i {
+    margin-right: 1em;
+    width: 16px;
 }
 
 .right__section {
@@ -95,29 +101,38 @@ body {
     margin: 0 16px;
 }
 
-.right__qualifications {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+.right__qualifications table {
+    width: 100%;
+    margin: 0 auto;
     /* border: 1px dotted #2B2741; */
-}
+}   
 
-.right__qualifications .header {
-    height: 50px;
+.right__qualifications thead {
     background-color: beige;
-    display: flex;
-    justify-content: space-around;
     width: 100%;
 }
 
-.right__qualifications > p {
-    display: flex;
-    justify-content: space-around;
-    width: 50%;
-    margin: 5px auto;
-    /* padding: 5px; */
-    /* background-color: pink; */
+.right__qualifications table td {
+    text-align: center;
+    /* border-top: 1px dotted #2B2741; */
+} 
+
+.right__IT table {
+    width: 100%;
+    margin: 0 auto;
+    /* border: 1px dotted #2B2741; */
+}   
+
+.right__IT thead {
+    background-color: beige;
+    width: 100%;
 }
+
+.right__IT table td {
+    text-align: center;
+    /* border-top: 1px dotted #2B2741; */
+} 
+
 
 footer {
     /* height: 50px; */
